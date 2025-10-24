@@ -1,0 +1,1 @@
+([('工单管理系统', '/Volumes/web/pyproj/dist/工单管理系统', 'EXECUTABLE')],)
